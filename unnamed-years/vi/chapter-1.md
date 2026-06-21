@@ -37,4 +37,4 @@ Tôi không nhớ nhiều chi tiết lắm. Ký ức của đứa trẻ chưa đ
 
 Nhưng những mảnh ký ức ngắn đó đủ để tôi biết: **tôi đã từng có một tuổi thơ rất đẹp**.
 
-And then—I began to grow up a little. Big enough for them to lead me to a place called **kindergarten**.
+Và rồi—tôi bắt đầu lớn lên một chút, đủ lớn để họ dắt tôi đến một nơi gọi là **trường mẫu giáo**.
