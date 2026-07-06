@@ -4,6 +4,7 @@ description: "A small story about leaving a coastal town, learning how distance 
 coverImage: "/media/stories/between-two-harbors/cover.png"
 status: "completed"
 tags: ["home", "family", "return"]
-date: "2024-05-20"
+date: "2026-06-01"
 lang: "en"
+locked: true
 ---
